@@ -2,7 +2,7 @@
 
 This repository contains a collection of Python simulations The projects focus on **Random Geometric Graphs (RGG)**, analyzing their connectivity, node degree properties, and the behavior of Random Walkers within them.
 
-## 📂 Project Structure
+## Project Structure
 
 The repository is organized into four main assignments/exercises:
 
