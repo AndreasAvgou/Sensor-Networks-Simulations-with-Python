@@ -22,7 +22,7 @@ The repository is organized into four main assignments/exercises:
     * Compares walker efficiency across different network densities ($r=0.07$ to $0.10$).
     * Visualizes how higher density leads to faster coverage.
 
-## 🛠️ Prerequisites
+## Prerequisites
 
 All projects require **Python 3.x** and the following libraries for data processing and plotting:
 
