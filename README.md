@@ -30,7 +30,7 @@ All projects require **Python 3.x** and the following libraries for data process
 pip install matplotlib numpy
 ```
 
-## 🚀 How to Run
+## How to Run
 
 Navigate to the specific assignment folder and run the main.py script:
 
