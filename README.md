@@ -1,4 +1,12 @@
-# Sensor Networks Simulations with Python
+<div align="center">
+  <img width="627" height="300" alt="natural-language-processing-nlp" src="https://github.com/user-attachments/assets/a80ef7b7-fc35-44ea-ab40-9931bd6d2695" />
+
+
+
+ # Sensor Networks Simulations with Python
+  
+</div>
+
 
 This repository contains a collection of Python simulations The projects focus on **Random Geometric Graphs (RGG)**, analyzing their connectivity, node degree properties, and the behavior of Random Walkers within them.
 
